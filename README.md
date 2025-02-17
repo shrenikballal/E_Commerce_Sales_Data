@@ -4,6 +4,8 @@
 
 This is data analysis project using Python, completed with the help of YouTube tutorials. The project involves data processing, cleaning, visualization, and generating insights from a dataset.
 
+NOTE: I have uploaded Jupyter Notebook file as ZIP, as it was too large to upload.
+
 🛠️ Technologies Used
   -  Python
   -  Pandas
